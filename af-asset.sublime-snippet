@@ -1,0 +1,13 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+<a-assets>
+	${1}
+</a-assets>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>af-asset</tabTrigger>
+  <description>Make an Aframe Asset</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html.basic</scope>
+</snippet>
