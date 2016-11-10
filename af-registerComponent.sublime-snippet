@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+AFRAME.registerComponent('${1}', {
+	${2}
+})
+]]></content>
+  <tabTrigger>acomponent</tabTrigger>
+  <description>Register an Aframe Component</description>
+  <scope>source.js</scope>
+</snippet>

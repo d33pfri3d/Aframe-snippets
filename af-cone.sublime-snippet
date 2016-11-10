@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<a-cone color="${1}" radius-bottom="${2}" radius-top="${3}"></a-cone>
+]]></content>
+  <tabTrigger>acone</tabTrigger>
+  <description>Make an Aframe Cone</description>
+  <scope>text.html.basic</scope>
+</snippet>

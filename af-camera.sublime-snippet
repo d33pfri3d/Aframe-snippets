@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<a-camera></a-camera>
+]]></content>
+  <tabTrigger>acam</tabTrigger>
+  <description>Make an Aframe Camera</description>
+  <scope>text.html.basic</scope>
+</snippet>

@@ -4,7 +4,7 @@
 	${4}
 </a-entity>
 ]]></content>
-  <tabTrigger>af-box</tabTrigger>
+  <tabTrigger>abox</tabTrigger>
   <description>Make an Aframe Entity with Box geometry</description>
   <scope>text.html.basic</scope>
 </snippet>

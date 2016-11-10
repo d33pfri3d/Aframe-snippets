@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<a-plane src="${1}" height="${2}" width="${3}" rotation="${4}"></a-plane>
+]]></content>
+  <tabTrigger>aplane</tabTrigger>
+  <description>Make an Aframe Plane</description>
+  <scope>text.html.basic</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<a-ring color="${1}" radius-inner="${2}" radius-outer="${3}"></a-ring>
+]]></content>
+  <tabTrigger>aring</tabTrigger>
+  <description>Make an Aframe Ring</description>
+  <scope>text.html.basic</scope>
+</snippet>

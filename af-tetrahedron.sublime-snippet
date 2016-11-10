@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<a-tetrahedron color="${1}" radius="${2}"></a-tetrahedron>
+]]></content>
+  <tabTrigger>atetra</tabTrigger>
+  <description>Make an Aframe Tetrahedron</description>
+  <scope>text.html.basic</scope>
+</snippet>

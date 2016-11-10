@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<a-cursor></a-cursor>
+]]></content>
+  <tabTrigger>acursor</tabTrigger>
+  <description>Make an Aframe Cursor</description>
+  <scope>text.html.basic</scope>
+</snippet>

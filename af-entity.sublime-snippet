@@ -4,7 +4,7 @@
 	${2}
 </a-entity>
 ]]></content>
-  <tabTrigger>af-ent</tabTrigger>
+  <tabTrigger>aent</tabTrigger>
   <description>Make an Aframe Entity</description>
   <scope>text.html.basic</scope>
 </snippet>

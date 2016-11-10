@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<a-image src="#my-image"></a-image>
+]]></content>
+  <tabTrigger>aimage</tabTrigger>
+  <description>Make an Aframe Image</description>
+  <scope>text.html.basic</scope>
+</snippet>

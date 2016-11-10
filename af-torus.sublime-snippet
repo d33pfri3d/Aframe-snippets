@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<a-torus color="${1}" arc="${2}" radius="${3}" radius-tubular="${6}"></a-torus>
+]]></content>
+  <tabTrigger>atorus</tabTrigger>
+  <description>Make an Aframe Torus</description>
+  <scope>text.html.basic</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<a-collada-model src="${1}"></a-collada-model>
+]]></content>
+  <tabTrigger>acoll</tabTrigger>
+  <description>Make an Aframe Collada Model Component</description>
+  <scope>text.html.basic</scope>
+</snippet>

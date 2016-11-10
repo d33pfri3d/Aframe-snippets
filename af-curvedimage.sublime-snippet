@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<a-curvedimage src="${1}" height="${2}" radius="${3}" theta-length="${4}" rotation="${5}" scale="${6}"></a-curvedimage>
+]]></content>
+  <tabTrigger>acurvedimage</tabTrigger>
+  <description>Make an Aframe CurvedImage</description>
+  <scope>text.html.basic</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<a-sound src="${1}" autoplay="true" position="${2}"></a-sound>
+]]></content>
+  <tabTrigger>asound</tabTrigger>
+  <description>Make an Aframe Sound</description>
+  <scope>text.html.basic</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<a-scene>
+	${1}
+</a-scene>
+]]></content>
+  <tabTrigger>ascene</tabTrigger>
+  <description>Make an Aframe Scene</description>
+  <scope>text.html.basic</scope>
+</snippet>

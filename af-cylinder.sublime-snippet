@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<a-cylinder color="${1}" height="${2}" radius="${3}"></a-cylinder>
+]]></content>
+  <tabTrigger>acylinder</tabTrigger>
+  <description>Make an Aframe Cylider</description>
+  <scope>text.html.basic</scope>
+</snippet>

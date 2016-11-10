@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<a-video src="${1}" width="${2}" height="${3}" position="${4}"></a-video>
+]]></content>
+  <tabTrigger>avideo</tabTrigger>
+  <description>Make an Aframe Video</description>
+  <scope>text.html.basic</scope>
+</snippet>

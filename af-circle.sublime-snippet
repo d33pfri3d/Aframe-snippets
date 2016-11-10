@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<a-circle color="${1}" radius="${2}"></a-circle>
+]]></content>
+  <tabTrigger>acircle</tabTrigger>
+  <description>Make an Aframe Circle</description>
+  <scope>text.html.basic</scope>
+</snippet>

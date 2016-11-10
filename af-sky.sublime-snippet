@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<a-sky src="${1}"></a-sky>
+]]></content>
+  <tabTrigger>asky</tabTrigger>
+  <description>Make an Aframe Sky</description>
+  <scope>text.html.basic</scope>
+</snippet>

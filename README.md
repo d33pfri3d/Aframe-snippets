@@ -24,10 +24,17 @@
 
 ### Available Components
 
-Component        | Usage
-:--------------- | :-----------:
-`<a-assets>`     | af-asset + tab
-`<a-entity>`     | af-entity + tab
+Component						| Usage
+:--------------- 		| :-----------:
+`<a-assets>`     		| af-asset + tab
+`<a-entity>`     		| af-ent + tab
+`<a-box>`				 		| af-box + tab
+`<a-camera>`		 		| af-cam + tab
+`<a-circle>`		 		| af-circle + tab
+`<a-collada-model>`	| af-coll + tab
+`<a-sphere>`				| af-sphere + tab
+`<a-sphere>`				| af-sphere + tab
+
 
 
 
