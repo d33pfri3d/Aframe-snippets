@@ -2,7 +2,7 @@
   <content><![CDATA[
 <a-torus-knot color="${1}" arc="${2}" p="${3}" q="${4}" radius="${5}" radius-tubular="${6}"></a-torus-knot>
 ]]></content>
-  <tabTrigger>atorus</tabTrigger>
+  <tabTrigger>aknot</tabTrigger>
   <description>Make an Aframe Torus Knot</description>
   <scope>text.html.basic</scope>
 </snippet>

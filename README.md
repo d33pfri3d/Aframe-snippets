@@ -14,28 +14,51 @@
 
 2. Clone repository into packages folder
 
-`git clone https://gitlab.com/studiozero/AFrame-Snippets`
+`git clone git@github.com:shaundunne/Aframe-snippets.git`
 
 ###### Windows Instructions
 
 `cd "%AppData%\Sublime Text 3\Packages\User"`
 
-`git clone https://gitlab.com/studiozero/AFrame-Snippets`
+`git clone git@github.com:shaundunne/Aframe-snippets.git`
 
 ### Available Components
 
 Component						| Usage
 :--------------- 		| :-----------:
-`<a-assets>`     		| af-asset + tab
-`<a-entity>`     		| af-ent + tab
-`<a-box>`				 		| af-box + tab
-`<a-camera>`		 		| af-cam + tab
-`<a-circle>`		 		| af-circle + tab
-`<a-collada-model>`	| af-coll + tab
-`<a-sphere>`				| af-sphere + tab
-`<a-sphere>`				| af-sphere + tab
+`<a-assets>`     		| aasset + tab
+`<a-entity>`     		| aent + tab
+`<a-box>`				 		| abox + tab
+`<a-camera>`		 		| acam + tab
+`<a-circle>`		 		| acircle + tab
+`<a-collada-model>`	| acoll + tab
+`<a-cone>`					| acone + tab
+`<a-cursor>`				| acursor + tab
+`<a-curvedimage>`		| acurvedimage + tab
+`<a-cylinder>`			| acylinder + tab
+`<a-dodecahedron>`	| adodec + tab
+`<a-image>`					| aimage + tab
+`<a-light>`					| alight + tab
+`<a-obj-model>`			| aobj + tab
+`<a-octahedron>`		| aoct + tab
+`<a-plane>`					| aplane + tab
+`<a-ring>`					| aring + tab
+`<a-scene>`					| ascene + tab
+`<a-sky>`						| asky + tab
+`<a-sound>`					| asound + tab
+`<a-sphere>`				| asphere + tab
+`<a-tetrahedron>`		| atetra + tab
+`<a-torus-knot>`		| aknot + tab
+`<a-torus>`					| atorus + tab
+`<a-video>`					| avideo + tab
+`<a-videosphere>`		| avideosphere + tab
+
+### JS
 
 
+Snippet											| Usage
+:------------------------- 	| :-----------:
+`AFRAME.registerComponent`	| acomponent + tab
 
 
 ### Contributing
